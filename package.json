@@ -1,0 +1,23 @@
+{
+  "name": "hellocucumber",
+  "version": "1.0.0",
+  "description": "Introduce to Cucumber and gherkin",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zear16/hellocucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zear16/hellocucumber/issues"
+  },
+  "homepage": "https://github.com/zear16/hellocucumber#readme",
+  "devDependencies": {
+    "cucumber": "^5.0.1"
+  }
+}
